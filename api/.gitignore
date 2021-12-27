@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+Readme..rtf
+GCP Credentials.txt
+
+ancian_models/
+
+dataset/
+
+PlantVillage/
+
+frontend/node_modules
